@@ -1,11 +1,11 @@
-/* Clear default styles */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Add your custom styles */
+
 body {
   font-family: 'Arial', sans-serif;
 }
@@ -22,13 +22,13 @@ li{
 img{
   /* width: 90px;
   height: auto;  */
-  width: 50px; /* Adjust image size */
+  width: 50px; 
   height: auto;
   margin-right: 20px; 
 }
 
 body {
-  background-color: black; /* Light grey background for the whole page */
+  background-color: black; 
   color: white; 
 }
 nav{
