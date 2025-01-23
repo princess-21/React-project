@@ -2,10 +2,10 @@
 function App() {
   return (
     <>
-      <div>
+      <nav>
       <img src="/public/image10.png" alt="React Image" />
         <p>ReactFacts</p>
-      </div>
+      </nav>
 
       <div>
         <ul>

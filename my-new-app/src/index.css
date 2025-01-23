@@ -31,3 +31,7 @@ body {
   background-color: black; /* Light grey background for the whole page */
   color: white; 
 }
+nav{
+  display: flex;
+  align-items: center; 
+}
